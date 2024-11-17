@@ -21,3 +21,17 @@ For the following input:
 
 let personAge = [25, 10, 35, 76, 15, 18, 8, 17, 30, 29];
 let personName = ["Rahul", "Sai", "Neha", "Raju", "Anuj", "Sameer", "Rani", "Abhishek", "Rishika", "Sanju"];
+
+# To Contribute on this project:
+Use this code in your terminal:
+            `https://github.com/oSai9951/GitHub-Repository-and-Collaboration` 
+        Note: Don't forget to set your folder path in your terminal
+
+After you complete your work:
+ Write this code step by step in your terminal:
+            `git add .`
+            `git commit -m "Your descriptive commit message"`
+            `git push origin branch-name`
+        
+
+
